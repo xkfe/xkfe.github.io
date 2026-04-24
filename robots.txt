@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xkfe.github.io/sitemap.xml
